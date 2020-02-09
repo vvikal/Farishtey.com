@@ -1,0 +1,52 @@
+.card-title{
+    color: #ff0000;
+}
+
+.card{
+    margin-top: 120px;
+    border: 2px solid #000000;
+}
+
+.jumbotron {
+    margin-top: 60px;
+	background-color: #f05053a2;
+	color: #ffffff;
+}
+
+.bg-dark{
+    background-color: #ffffff !important;
+    border-bottom: 3px solid #E8E8E8;
+    color: white;
+}
+.bg-dark .container{
+    font: #ff0000 !important;
+}
+
+.navbar .nav-link:hover{
+    color: #ff0000;
+}
+
+.img-thumbnail{
+    width: 400px;
+    border: 2px solid #ffffff;
+}
+img{
+    margin-left: 70px;
+}
+.message{
+    font-size: 42px;
+    margin-top: 50px;
+}
+#blood{
+    color: red;
+}
+
+.form{
+    margin-top: 40px;
+}
+.login-panel{
+    float: right;
+}
+
+
+
